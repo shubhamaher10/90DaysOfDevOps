@@ -1,4 +1,6 @@
 # #90DaysOfDevOps Challenge
+nana bhau devkate
+and ganibhaijiii  nashik
 
 ## Learn, Upskill, Grow with the Community
 
